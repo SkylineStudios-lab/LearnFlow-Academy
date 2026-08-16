@@ -3,8 +3,10 @@
 }
 
 .description-element-one {
-  border: rgb(125, 125, 125) 2px solid;
+  border: gray 2px solid;
   border-radius: 50px;
-  padding: 8px;
+  width: 400px;
+  padding: 3px;
   background: rgb(207, 207, 207);
+  text-align: center;
 }
